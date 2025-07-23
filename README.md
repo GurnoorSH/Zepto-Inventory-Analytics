@@ -145,4 +145,4 @@ This project showcases my ability to transform raw e-commerce data into actionab
 
 ---
 
-*This project demonstrates practical application of SQL skills in real-world business scenarios, emphasizing both technical proficiency and business acumen essential for data analyst and business intelligence roles.*
+*This [project](https://www.youtube.com/watch?v=x8dfQkKTyP0) demonstrates practical application of SQL skills in real-world business scenarios, emphasizing both technical proficiency and business acumen essential for data analyst and business intelligence roles.*
